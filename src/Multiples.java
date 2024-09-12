@@ -8,7 +8,7 @@ class Multiples {
         while (x < 1000) {
             // check if it is divisible by 3 or 5
             if (x % 3 == 0 || x % 5 == 0)
-            {count = count + x;}
+            {count = count + 1;}
 
 
             // next iteration
